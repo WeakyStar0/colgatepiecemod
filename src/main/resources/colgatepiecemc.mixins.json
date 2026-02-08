@@ -3,7 +3,8 @@
 	"package": "colgatepiecemod.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"PlayerCapeMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

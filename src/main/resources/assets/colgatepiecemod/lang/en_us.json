@@ -1,3 +1,17 @@
 {
-  "item.colgatepiecemod.mano_manuels_katana": "Mano Manuel's Katana"
+  "item.colgatepiecemod.mano_manuels_katana": "Mano Manuel's Katana",
+  "item.colgatepiecemod.mano_manuels_katana.tooltip.1": "A legendary blade.",
+  "tooltip.colgatepiecemod.ability": "Ability: ",
+  "tooltip.colgatepiecemod.super_dash": "Manuel Dash",
+  "tooltip.colgatepiecemod.hold_charge": "Hold RightMouseButton to charge.",
+
+
+
+
+  "item.colgatepiecemod.superbullying_chestplate": "SuperBullying's Gloves & Cape",
+  "item.colgatepiecemod.superbullying_helmet": "SuperBullying's Sunglasses",
+  "item.colgatepiecemod.superbullying_leggings": "SuperBullying's Jeans",
+  "item.colgatepiecemod.superbullying_boots": "SuperBullying's Shoes",
+  "tooltip.colgatepiecemod.flight_ready": "Flight ready!",
+  "tooltip.colgatepiecemod.energy_depleted": "No energy!"
 }

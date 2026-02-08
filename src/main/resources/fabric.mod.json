@@ -3,16 +3,16 @@
 	"id": "colgate-piece-mc",
 	"version": "${version}",
 	"name": "Colgate Piece MC",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a fan mode based on the tale of Colgate Piece.",
 	"authors": [
-		"Me!"
+		"WeakyStar"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/colgatepiecemc/icon.png",
+	"icon": "assets/colgatepiecemod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
